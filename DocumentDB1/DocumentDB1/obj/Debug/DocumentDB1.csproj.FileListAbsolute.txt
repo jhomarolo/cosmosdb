@@ -1,0 +1,18 @@
+C:\palestras\Azure Summit Brasil\Demo\DocumentDB1\DocumentDB1\bin\Debug\DocumentDB1.exe.config
+C:\palestras\Azure Summit Brasil\Demo\DocumentDB1\DocumentDB1\obj\Debug\DocumentDB1.csprojResolveAssemblyReference.cache
+C:\palestras\Azure Summit Brasil\Demo\DocumentDB1\DocumentDB1\bin\Debug\DocumentDB1.exe
+C:\palestras\Azure Summit Brasil\Demo\DocumentDB1\DocumentDB1\bin\Debug\DocumentDB1.pdb
+C:\palestras\Azure Summit Brasil\Demo\DocumentDB1\DocumentDB1\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\palestras\Azure Summit Brasil\Demo\DocumentDB1\DocumentDB1\bin\Debug\Newtonsoft.Json.dll
+C:\palestras\Azure Summit Brasil\Demo\DocumentDB1\DocumentDB1\bin\Debug\Newtonsoft.Json.xml
+C:\palestras\Azure Summit Brasil\Demo\DocumentDB1\DocumentDB1\obj\Debug\DocumentDB1.exe
+C:\palestras\Azure Summit Brasil\Demo\DocumentDB1\DocumentDB1\obj\Debug\DocumentDB1.pdb
+C:\Users\jhonathan.soares\Desktop\AzureDocumentDB-master\DocumentDB1\DocumentDB1\bin\Debug\DocumentDB1.exe.config
+C:\Users\jhonathan.soares\Desktop\AzureDocumentDB-master\DocumentDB1\DocumentDB1\obj\Debug\DocumentDB1.exe
+C:\Users\jhonathan.soares\Desktop\AzureDocumentDB-master\DocumentDB1\DocumentDB1\obj\Debug\DocumentDB1.pdb
+C:\Users\jhonathan.soares\Desktop\AzureDocumentDB-master\DocumentDB1\DocumentDB1\bin\Debug\DocumentDB1.exe
+C:\Users\jhonathan.soares\Desktop\AzureDocumentDB-master\DocumentDB1\DocumentDB1\bin\Debug\DocumentDB1.pdb
+C:\Users\jhonathan.soares\Desktop\AzureDocumentDB-master\DocumentDB1\DocumentDB1\bin\Debug\Microsoft.Azure.Documents.Client.dll
+C:\Users\jhonathan.soares\Desktop\AzureDocumentDB-master\DocumentDB1\DocumentDB1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jhonathan.soares\Desktop\AzureDocumentDB-master\DocumentDB1\DocumentDB1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jhonathan.soares\Desktop\AzureDocumentDB-master\DocumentDB1\DocumentDB1\obj\Debug\DocumentDB1.csprojResolveAssemblyReference.cache
